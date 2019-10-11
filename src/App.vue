@@ -78,19 +78,19 @@
 
 <script>
 //import HelloWorld from './components/HelloWorld';
-import Header from './components/Header.vue';
-import Footer from './components/Footer.vue';
-import servers from './components/Servers.vue';
-import ServerDetails from './components/ServerDetails.vue';
+//import Header from './components/Header.vue';
+//import Footer from './components/Footer.vue';
+//import servers from './components/Servers.vue';
+//import ServerDetails from './components/ServerDetails.vue';
 
 export default {
   name: 'App',
   components: {
     //HelloWorld,
-    'app-header': Header,
-    'app-footer': Footer,
-    'app-servers': Servers,
-    'app-server-details': ServerDetails,
+    //'app-header': Header,
+    //'app-footer': Footer,
+    //'app-servers': Servers,
+    //'app-server-details': ServerDetails,
   },
   data: () => ({
     //
